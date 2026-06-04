@@ -90,9 +90,8 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 Task-4-Logistic-Regression/
 │
 ├── task4_logistic_regression.ipynb
-├── README.md
-├── requirements.txt
-└── screenshots/
+|__README.md
+
 ```
 
 ---
